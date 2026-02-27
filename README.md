@@ -1,5 +1,5 @@
 ## Abstract
-This document outlines the architectural design and conceptual framework for a **Semantic Video Search Prototype**. The system is engineered to transcend the inherent limitations of metadata-dependent archives by leveraging **neural video understanding**, facilitating natural language discovery within large-scale visual repositories.
+This document outlines my architectural design and conceptual framework for a rapid **Semantic Video Search Prototype**. The system is engineered to transcend the inherent limitations of metadata-dependent archives by leveraging **neural video understanding**, facilitating natural language discovery within large-scale visual repositories.
 
 ## Demo
 
@@ -16,7 +16,7 @@ Traditional archival retrieval relies on manual indexing and keyword matching, p
 
 ---
 
-## High-Level System Architecture
+## Architecture
 
 ### 1. UI (React)
 The frontend serves as the primary orchestration point for user intent, managing state for:
