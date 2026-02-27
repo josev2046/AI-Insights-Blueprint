@@ -3,7 +3,11 @@ This document outlines my architectural design and conceptual framework for a ra
 
 ## Demo
 
-https://github.com/user-attachments/assets/8f50285d-91c9-48cb-aaf2-afec57ab6c77
+
+
+https://github.com/user-attachments/assets/9344a493-d5a1-49b9-8c3d-5320bbc16806
+
+
 
 ---
 
