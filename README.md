@@ -5,6 +5,10 @@ This document outlines my architectural design and conceptual framework for a se
 
 
 
+https://github.com/user-attachments/assets/8f50285d-91c9-48cb-aaf2-afec57ab6c77
+
+
+
 ## Conceptual framework
 Traditional archival retrieval relies on manual indexing and keyword matching, which are prone to human error and linguistic limitations. This prototype shifts the search paradigm toward neural feature extraction:
 
