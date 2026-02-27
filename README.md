@@ -1,5 +1,5 @@
 ## Abstract
-This document outlines my architectural design and conceptual framework for a rapid **Semantic Video Search Prototype**. The system is engineered to transcend the inherent limitations of metadata-dependent archives by leveraging **neural video understanding**, facilitating natural language discovery within large-scale visual repositories.
+This document outlines my architectural design and conceptual framework for a rapid **semantic video search prototype**. The system is engineered to transcend the inherent limitations of metadata-dependent archives by leveraging **neural video understanding**, facilitating natural language discovery within large-scale visual repositories.
 
 ## Demo
 
