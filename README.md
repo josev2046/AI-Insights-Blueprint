@@ -29,8 +29,8 @@ The frontend serves as the primary orchestration point for user intent, managing
 
 ### 2. Logic layer (FastAPI)
 This intermediary backend serves as a secure gateway and data sanitiser:
-* **API Orchestration**: Managing the `multipart/form-data` requirements for the Twelve Labs v1.3 engine.
-* **Stream Normalisation**: Converting cloud-hosted storage links (e.g., GitHub Blobs) into raw content streams compatible with HTML5 video standards.
+* **API orchestration**: Managing the `multipart/form-data` requirements for the Twelve Labs v1.3 engine.
+* **Stream normalisation**: Converting cloud-hosted storage links (e.g., GitHub Blobs) into raw content streams compatible with HTML5 video standards.
 
 ### 3. Neural layer (TwelveLabs Marengo-2.6)
 The core processing engine performs the following critical tasks:
