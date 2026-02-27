@@ -1,4 +1,7 @@
 ## Abstract
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18802425.svg)](https://doi.org/10.5281/zenodo.18802425)
+
 This document outlines my architectural design and conceptual framework for a rapid **semantic video search prototype**. The system is engineered to transcend the inherent limitations of metadata-dependent archives by leveraging **neural video understanding**, facilitating natural language discovery within large-scale visual repositories.
 
 ## Demo
